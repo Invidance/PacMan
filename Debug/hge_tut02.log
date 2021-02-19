@@ -1,7 +1,7 @@
 HGE Started..
 
 HGE version: 1.60
-Date: 25.12.2020, 19:32:37
+Date: 01.02.2021, 11:49:37
 
 Application: Test program
 OS: Windows 6.2.9200
@@ -13,7 +13,7 @@ Version: 27.20.100.8280
 Can't find appropriate full screen video mode
 Mode: 640 x 320 x UNKNOWN
 
-Sound Device: LG TV (NVIDIA High Definition Audio)
+Sound Device: Динамики (Realtek(R) Audio)
 Sample rate: 44100
 
 Init done.
